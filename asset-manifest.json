@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aman-raj005/Testimonial-website.git/static/css/main.959c151c.css",
+    "main.js": "/aman-raj005/Testimonial-website.git/static/js/main.869bfec5.js",
+    "static/js/453.ed3810f9.chunk.js": "/aman-raj005/Testimonial-website.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/aman-raj005/Testimonial-website.git/index.html",
+    "main.959c151c.css.map": "/aman-raj005/Testimonial-website.git/static/css/main.959c151c.css.map",
+    "main.869bfec5.js.map": "/aman-raj005/Testimonial-website.git/static/js/main.869bfec5.js.map",
+    "453.ed3810f9.chunk.js.map": "/aman-raj005/Testimonial-website.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959c151c.css",
+    "static/js/main.869bfec5.js"
+  ]
+}
